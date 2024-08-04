@@ -70,7 +70,7 @@ export const ContactForm = ({ addContact, contacts }) => {
           onChange={handleNumberChange}
         />
       </label>
-      <button className={css.formBtn} type="submit">
+      <button className={css.formButton} type="submit">
         Add Contact
       </button>
     </form>
