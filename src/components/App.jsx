@@ -7,7 +7,6 @@ import RegisterPage from '../pages/RegisterPage';
 import { RestrictedRoute } from './RestrictedRoute/RestrictedRoute';
 import { PrivateRoute } from './PrivateRoute/PrivateRoute';
 import { ContactsPage } from 'pages/ContactsPage';
-import UserMenu from 'pages/UserMenu';
 
 export const App = () => {
   // const isLoggedIn = true;
