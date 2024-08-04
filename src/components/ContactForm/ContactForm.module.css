@@ -1,0 +1,15 @@
+.formBtn {
+  width: 170px;
+  padding: 0 auto;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 500px;
+  background-color: aquamarine;
+}
